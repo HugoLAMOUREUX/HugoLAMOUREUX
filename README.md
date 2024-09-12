@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @HugoLAMOUREUX
 - 👀 I’m interested in Data science and software engineering !
-- 🌱 I’m currently studying at INSA Rennes in France
 - 📫 How to reach me : hugo.lamoureux18@gmail.com
 
 <!---
